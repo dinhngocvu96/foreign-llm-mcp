@@ -1,0 +1,6 @@
+[project]
+name = "foreign-llm-mcp"
+version = "0.1.0"
+description = "MCP server that delegates simple tasks to free web LLMs (Gemini, ChatGPT) via browser automation"
+requires-python = ">=3.10"
+dependencies = ["mcp>=2,<3", "playwright>=1.45"]

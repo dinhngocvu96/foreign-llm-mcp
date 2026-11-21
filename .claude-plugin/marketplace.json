@@ -1,0 +1,14 @@
+{
+  "name": "foreign-llm-mcp",
+  "description": "Claude Code plugins that delegate simple tasks to free web LLMs.",
+  "owner": {
+    "name": "dinhngocvu96"
+  },
+  "plugins": [
+    {
+      "name": "foreign-llm",
+      "source": "./",
+      "description": "Delegate simple one-shot tasks to free web LLMs (Gemini, ChatGPT) via browser automation."
+    }
+  ]
+}

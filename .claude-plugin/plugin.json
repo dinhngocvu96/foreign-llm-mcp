@@ -1,0 +1,17 @@
+{
+  "name": "foreign-llm",
+  "version": "0.1.0",
+  "description": "Delegate simple one-shot tasks (summarize, translate, small code, second opinion, web lookup, image generation) to free web LLMs like Gemini and ChatGPT through browser automation.",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "gemini",
+    "chatgpt",
+    "playwright",
+    "browser-automation"
+  ],
+  "author": {
+    "name": "dinhngocvu96"
+  },
+  "repository": "https://github.com/dinhngocvu96/foreign-llm-mcp"
+}
